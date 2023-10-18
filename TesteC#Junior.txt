@@ -1,0 +1,132 @@
+//
+//
+// 1) Qual desses comandos serve para percorrer um array sem precisar
+// controlar o indexador?
+//
+// a) if
+// b) echo
+// c) foreach
+// d) explode
+// e) print
+//
+//
+// 2) Tendo o seguinte comando abaixo, escolha a alternativa correta:
+//  int[] array = new int[50];
+// for (int i = 0; i < 60; i++)
+// {
+// array[i] = i + 1;
+// }
+// Console.WriteLine(array[60]);
+//
+// a) O Codigo nÃ£o compila, lanÃ§ando uma exeÃ§Ã£o IndexOutOfRangeException 
+// b) Ã‰ apresentando no Console 60
+// c) Ã‰ apresentando no Console 59
+// d) Ã‰ apresentando no Console 10
+// e) Nenhuma das alternativas acima
+//
+//
+// 3) Os modificadores de acesso em C# sÃ£o:
+// a) abstract, interface e class
+// b) public, protected, private e final
+// c) abstract, interface e class
+// d) public, protected, internal, file e private
+// d) NÃ£o possui modificadores
+// e) Nenhuma das alternativas acima
+//
+//
+// 4) Seleciona a melhor definiÃ§Ã£o para uma superclasse
+//
+// a) A superclasse pode ser herdada por uma subclasse 
+// b) A superclasse nunca Ã© herdada por uma subclasse
+// c) NÃ£o existe o conceito de superclasse em C#
+// d) A superclasse deve obrigatoriamente ser extendida 
+// e) Nenhuma das alternativas acima
+//
+//
+// 5) A instruÃ§Ã£o return, serve para:
+//
+// a) Return encerra a execuÃ§Ã£o da funÃ§Ã£o em que aparece e devolve o controle e o resultado da funÃ§Ã£o 
+// b) A instruÃ§Ã£o pausa o programa
+// c) Retornar o maior item de um array
+// d) Inverter uma string
+// e) Validar uma data conforme o padrÃ£o brasileiro
+//
+//
+//
+// 6) Escreva um programa que mostre a quantidade de vezes que cada
+// palavra aparece no texto abaixo, entre aspas:
+   "NÃ³s nÃ£o desistiremos nem fracassaremos. NÃ³s iremos atÃ© o fim. 
+   NÃ³s lutaremos na FranÃ§a, lutaremos nos mares e oceanos, nÃ³s 
+   lutaremos com confianÃ§a crescente e uma forÃ§a tambÃ©m crescente 
+   ao nosso redor. NÃ³s defenderemos nossa ilha, qualquer que seja o 
+   preÃ§o. NÃ³s lutaremos nas praias, lutaremos em terra firme, lutaremos 
+   nos campos e nas ruas, lutaremos nas montanhas. NÃ³s nunca nos renderemos!"
+//
+// ObservaÃ§Ãµes:
+// a) FaÃ§a seu programa desconsiderar os sinais de pontuaÃ§Ã£o: vÃ­rgulas, pontos e 
+// sinais de exclamaÃ§Ã£o.
+// b) FaÃ§a seu programa considerar como iguais, as palavras escritas da mesma forma,
+// independente de estarem em maiÃºsculas ou em minÃºsculas.
+//
+// Dicas: String.Replace() e String.ToLower() e String.ToUpper() podem te ajudar.
+//
+//
+// 7) Quando preciso escrever um trecho de cÃ³digo que serÃ¡ usado em vÃ¡rias
+// partes do programa, eu crio:
+//
+// a) Um novo sistema
+// b) Uma Classe 
+// c) Uma stored procedure
+// d) Uma tabela no banco de dados
+// e) Um novo comando na linguagem C#
+//
+//
+// 8) Qual a vantagem de utilizar coleÃ§Ã£o de dados em C#
+//
+// a) As coleÃ§Ãµes fornecem uma maneira mais flexÃ­vel de agrupar grupos de objetos 
+// b) Serve para pecorrer um Array
+// c) Serve para trabalhar com armazenamento temporarios de numeros
+// d) Ã‰ uma stored procedure
+// e) Nenhuma das alternativas acima
+//
+//
+// 9) Escreva um trecho de cÃ³digo que mostre uma data invertida.
+//
+// Exemplo de data: 25/03/2013
+// Exemplo de data invertida: 2013/03/25
+//
+//
+// 10) Num array simples, qual Ã© o Ã­ndice do primeiro item?
+//
+// a) 1
+// b) zero
+// c) indefinido
+// d) -1
+// e) "a"
+//
+//
+// 11) Qual Ã© a funÃ§Ã£o que converte uma string para minÃºsculas?
+//
+//
+// 12) Para que serve o metodo break?
+//
+//
+// 13) Escreva um trecho de cÃ³digo que crie uma variÃ¡vel inteira,
+// inicializada com o valor 10.
+//
+//
+// 14) Para que serve o metodo trim()?
+//
+//
+// 15) Escreva uma metodo que retorne um nÃºmero multiplicado por outro, ambos
+// recebidos como parametro.
+//
+//
+// 16) Usando o texto da questÃ£o nÃºmero 6, escreva um programa que mostre 
+// a maior palavra que aparece no texto.
+//
+//
+// 17) Escreva uma metodo que mostre a quantidade de palavras existentes no texto "SÃ¡bado".
+//
+//
+// ------------ fim
